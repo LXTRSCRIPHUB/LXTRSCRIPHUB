@@ -4,7 +4,7 @@
 Atualmente estou desenvolvendo um script universal, projetado para oferecer compatibilidade com diversos executores. A solução integra funcionalidades premium (pagas), garantindo maior desempenho, estabilidade e recursos avançados para os usuários. O objetivo principal é criar uma ferramenta prática, acessível e eficiente, capaz de atender diferentes necessidades em um único script
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@8mediap">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
